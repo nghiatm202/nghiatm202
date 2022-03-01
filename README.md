@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="#"><img alt="nghiatm202's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nghiatm202&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="nghiatm202's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nghiatm202&theme=github-light" /></a>
 
 <br/>
 
