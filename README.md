@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%;display: flex;margin: 0 auto;"></a>
+<a href="#"><img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%;"></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, "chiện gì khó có Nghĩa lo"</h1>
@@ -45,8 +45,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="#"><img alt="nghiatm202's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nghiatm202&show_icons=true&" /></a>
+  <a href="#"><img alt="nghiatm202's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nghiatm202&show_icons=true&" /></a>
   <a href="#"><img alt="nghiatm202's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiatm202&layout=compact&langs_count=8" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
