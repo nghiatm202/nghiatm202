@@ -11,25 +11,25 @@
 
 
 ```typescript
-class Daniel_Truong  {
+class Nghia_Tran  {
   class: number; school: string; pronouns:string[]; hobbies: string[]; 
   constructor() {
     this.class = 2024;
-    this.school =  "CSUF 🐘";
+    this.school =  "UTH 🐘";
     this.pronouns =  ["he/him"];
-    this.hobbies = ["basketball", "programming", "music", "Youtube"]
+    this.hobbies = ["listening to music", "archery", "billiards", "programming"]
   }
 }
 
-class Skills extends Daniel_Truong {
+class Skills extends Nghia_Tran {
   languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; mobile: sintrg[], other: string[]
   constructor() {
     super();
-    this.languages = ["Javascript", "TypeScript", "Swift", "SQL", "C++", "Python"];
+    this.languages = ["Javascript", "TypeScript"];
     this.frameworks = ["Next.js", "TailwindCSS", "Express"];
-    this.frontend = ["React", "HTML/CSS", "Redux", "Storybook"];
-    this.mobile = ["React Native", "Swift Storyboard"];
-    this.backend = ["Node", "MySQL","MongoDB","Mongoose","Firebase","Socket.io"];
+    this.frontend = ["React", "HTML/CSS", "Redux"];
+    this.mobile = ["React Native"];
+    this.backend = ["Node", "MongoDB", "Firebase"];
     this.other = ["Git/Github", "Agile", "npm", "Figma"]
   }
 }
