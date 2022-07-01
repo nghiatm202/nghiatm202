@@ -10,20 +10,28 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-```javascript
-const UserInformation = {
- pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "digital"],
-    technologies:{
-        frontEnd: ["react", "vuejs", "firebase"],
-        backEnd: ["nodejs", "express", "socketIO"],
-        database: ["mongo", "mySql"],
-        server: ["mongo", "firebase"],
-        uiFramework: ["tailwind", "material-ui", "ant-deign", "bootstrap"],
-        others:["Photoshop", "Premiere", "After-effect", "Illustraion", "Camtasia"]
-    },
-    architecture: ["React app", "Single page applications", "Landing web page", "Server"],
-    interests: ["music", "football", "travel", "english", "movie"]
+```typescript
+class Daniel_Truong  {
+  class: number; school: string; pronouns:string[]; hobbies: string[]; 
+  constructor() {
+    this.class = 2024;
+    this.school =  "CSUF 🐘";
+    this.pronouns =  ["he/him"];
+    this.hobbies = ["basketball", "programming", "music", "Youtube"]
+  }
+}
+
+class Skills extends Daniel_Truong {
+  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; mobile: sintrg[], other: string[]
+  constructor() {
+    super();
+    this.languages = ["Javascript", "TypeScript", "Swift", "SQL", "C++", "Python"];
+    this.frameworks = ["Next.js", "TailwindCSS", "Express"];
+    this.frontend = ["React", "HTML/CSS", "Redux", "Storybook"];
+    this.mobile = ["React Native", "Swift Storyboard"];
+    this.backend = ["Node", "MySQL","MongoDB","Mongoose","Firebase","Socket.io"];
+    this.other = ["Git/Github", "Agile", "npm", "Figma"]
+  }
 }
 ```
 
