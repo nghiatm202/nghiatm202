@@ -15,7 +15,7 @@ class Nghia_Tran  {
   class: number; school: string; pronouns:string[]; hobbies: string[]; 
   constructor() {
     this.class = 2024;
-    this.school =  "UTH 🐘";
+    this.school =  "UTH 🥲";
     this.pronouns =  ["he/him"];
     this.hobbies = ["listening to music", "archery", "billiards", "programming"]
   }
